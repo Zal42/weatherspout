@@ -27,7 +27,7 @@ The images used are from the [Hackerbox project](https://www.instructables.com/H
 
 This code is designed to use openweathermap.org's [One Call API 3.0](https://openweathermap.org/api/one-call-3)
 
-Don't forget to edit weatherspout.ino to add the details for your WiFi AP, OpenWeather credentials, and your location.
+Don't forget to edit WeatherSpout.ino to add the details for your WiFi AP, OpenWeather credentials, and your location.
 
 Arduino libraries required:
 
