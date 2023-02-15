@@ -21,7 +21,7 @@ Features:
     * Dark red text means the pressure is trending lower
     * Red text means the pressure is falling rapidly
     * NOTE: This text will be Blue on Black until there is enough data to detect trends (2 weather checks, or 1 hour)
-  * The UV Index is color coded according to the standard risk colors
+  * The UV Index is color coded according to [the standard risk colors](https://www.epa.gov/sunsafety/uv-index-scale-0).
 
 The images used are from the Hackerbox's project and from [FreePik](https://www.freepikcompany.com/).
 
