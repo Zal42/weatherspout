@@ -23,7 +23,7 @@ Features:
 
 The images used are from the Hackerbox's project and from FreePik (https://www.freepikcompany.com/).
 
-This code is designed to use openweathermap.org's Once Call API 3.0
+This code is designed to use openweathermap.org's One Call API 3.0
 
 Don't forget to edit weatherspout.ino to add the details for your WiFi AP, OpenWeather credentials, and your location.
 
