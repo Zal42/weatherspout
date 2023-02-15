@@ -23,9 +23,9 @@ Features:
     * NOTE: This text will be Blue on Black until there is enough data to detect trends (2 weather checks, or 1 hour)
   * The UV Index is color coded according to [the standard risk colors](https://www.epa.gov/sunsafety/uv-index-scale-0).
 
-The images used are from the Hackerbox's project and from [FreePik](https://www.freepikcompany.com/).
+The images used are from the [Hackerbox project](https://www.instructables.com/HackerBox-0087-Picow/) and from [FreePik](https://www.freepikcompany.com/).
 
-This code is designed to use openweathermap.org's One Call API 3.0
+This code is designed to use openweathermap.org's [One Call API 3.0](https://openweathermap.org/api/one-call-3)
 
 Don't forget to edit weatherspout.ino to add the details for your WiFi AP, OpenWeather credentials, and your location.
 
