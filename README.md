@@ -9,7 +9,7 @@ The left button calls up a 6 day forecast, the right button cycles to the next p
 
 Features:
   * A special page is added to the rotation to display weather alerts when they happen
-  * The weather icon and descriptive text changes color from blue to red to roughly indicate temperature
+  * The weather icon and descriptive text changes color in 6 steps from blue to red to roughly indicate temperature
   * The Dew Point text turns red if the temperature is at or below the dew point
   * The Atmospheric Pressure text is color coded:
     * Blue on black means that there isn't enough history to indicate trends
