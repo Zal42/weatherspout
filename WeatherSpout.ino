@@ -64,8 +64,8 @@ void setup() {
   g_lastPressure[2] = 0;
   g_baroPressure = 0;
   
-  pinMode(SW1, INPUT);
-  pinMode(SW2, INPUT);
+  pinMode(SW1, INPUT_PULLDOWN);
+  pinMode(SW2, INPUT_PULLDOWN);
   Serial.begin(9600);
   Wire.begin();
   sensor.begin(Bme280TwoWireAddress::Primary);
