@@ -1,7 +1,7 @@
 # weatherspout
 Enhanced software for Hackerbox 87 Weather Station
 
-![test](/pics/pic1.jpg "test")
+![pic1](/pics/pic1.jpg) ![pic2](/pics/pic2.jpg) ![pic3](/pics/pic3.jpg) ![pic4](/pics/pic4.jpg)
 
 This is intended to run on the weather station that is in Hackerbox 87 (https://hackerboxes.com/products/hackerbox-0087-picow). Please see https://www.instructables.com/HackerBox-0087-Picow/ for programming instructions. This software is based on WeatherStation.ino and replaces it.
 
