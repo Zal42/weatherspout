@@ -31,12 +31,8 @@ Don't forget to edit weatherspout.ino to add the details for your WiFi AP, OpenW
 
 Arduino libraries required:
 
-TFT_eSPI (See https://hackerboxes.com/products/hackerbox-0087-picow for configuration instructions)
-
-Bme280 by Eduard Malokhvii.
-
-Arduino_JSON by Arduino
-
-Time by Paul Stoffregen
-
-wordwrap by Nick Reynolds
+ * TFT_eSPI (See https://hackerboxes.com/products/hackerbox-0087-picow for configuration instructions)
+ * Bme280 by Eduard Malokhvii.
+ * Arduino_JSON by Arduino
+ * Time by Paul Stoffregen
+ * wordwrap by Nick Reynolds
