@@ -3,7 +3,7 @@ Enhanced software for Hackerbox 87 Weather Station
 
 ![pic1](/pics/pic1.jpg) ![pic2](/pics/pic2.jpg) ![pic3](/pics/pic3.jpg) ![pic4](/pics/pic4.jpg)
 
-This is intended to run on the weather station that is in Hackerbox 87 (https://hackerboxes.com/products/hackerbox-0087-picow). Please see https://www.instructables.com/HackerBox-0087-Picow/ for programming instructions. This software is based on WeatherStation.ino and replaces it.
+This is intended to run on the weather station that is in [Hackerbox 87](https://hackerboxes.com/products/hackerbox-0087-picow). Please see [the instructions](https://www.instructables.com/HackerBox-0087-Picow/) for programming information. This software is based on WeatherStation.ino and replaces it.
 
 The left button calls up a 6 day forecast, the right button cycles to the next page.
 
@@ -31,7 +31,7 @@ Don't forget to edit weatherspout.ino to add the details for your WiFi AP, OpenW
 
 Arduino libraries required:
 
- * TFT_eSPI (See https://hackerboxes.com/products/hackerbox-0087-picow for configuration instructions)
+ * TFT_eSPI [See configuration instructions](https://hackerboxes.com/products/hackerbox-0087-picow)
  * Bme280 by Eduard Malokhvii.
  * Arduino_JSON by Arduino
  * Time by Paul Stoffregen
