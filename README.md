@@ -12,7 +12,7 @@ Features:
   * The weather icon and descriptive text changes color in 6 steps from blue to red to roughly indicate temperature
   * The Dew Point text turns red if the temperature is at or below the dew point
   * The Atmospheric Pressure text is color coded:
-    * Blue on black means that there isn't enough history to indicate trends
+    * Blue on black means that there isn't enough history to indicate trends, or the pressure is remaining constant
     * Red background means that the pressure is low (below 1009.14 hPa)
     * Green background means that the pressure is high (above 1022.68 hPa)
     * Dark green text means the pressure is trending higher
