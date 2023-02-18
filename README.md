@@ -25,7 +25,7 @@ Features:
 
 The images used are from the [Hackerbox project](https://www.instructables.com/HackerBox-0087-Picow/) and from [FreePik](https://www.freepikcompany.com/).
 
-This code is designed to use openweathermap.org's [One Call API 3.0](https://openweathermap.org/api/one-call-3). You'll need to subscribe to the Call By Call service and provide a payment method. However, the first 1,000 calls per month are free. If you never exceed that, you will not be charged. Weatherspout makes 1 call/hour. or 744 calls during a 31 day billing period.
+This code is designed to use openweathermap.org's [One Call API 3.0](https://openweathermap.org/api/one-call-3). You'll need to subscribe to the Call By Call service and provide a payment method. However, the first 1,000 calls per month are free. If you never exceed that, you will not be charged. Weatherspout makes 1 call/hour, or 744 calls during a 31 day billing period.
 
 If you want to be guaranteed that you won't get a surprise charge, OpenWeather lets you set a hard limit for how many you can use. Set this to 1,000. [See their FAQ for how to do this.](https://openweathermap.org/faq#onecall)
 
